@@ -19,7 +19,7 @@
   "homepage": "https://github.com/makma/tale#readme",
   "dependencies": {
     "@kentico/sourcebit-source-kontent": "^0.3.0",
-    "sourcebit": "^0.8.0",
+    "sourcebit": "^0.8.1",
     "sourcebit-target-jekyll": "^0.4.2",
     "sourcebit-transform-assets": "^0.2.2"
   },

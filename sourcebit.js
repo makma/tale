@@ -3,7 +3,7 @@ module.exports = {
     {
       module: require('@kentico/sourcebit-source-kontent'),
       options: {
-        projectId: '7cde3f90-60c1-0079-4934-1df50efef89d',
+        projectId: 'df5972ac-794e-00af-9a90-555c0fa81d4c',
         languageCodenames: [
           'default'
         ]
@@ -20,7 +20,7 @@ module.exports = {
         const { __metadata: meta, ...fields } = entry;
         if (!meta) return;
         const { createdAt = '', modelName, projectId, source } = meta;
-        if (modelName === 'page' && projectId === '7cde3f90-60c1-0079-4934-1df50efef89d' && source === '@kentico/sourcebit-source-kontent') {
+        if (modelName === 'page' && projectId === 'df5972ac-794e-00af-9a90-555c0fa81d4c' && source === '@kentico/sourcebit-source-kontent') {
           const { __metadata, 'content': content, layout, ...frontmatterFields } = entry;
           return {
             content: {
@@ -31,7 +31,7 @@ module.exports = {
             path: '_pages/' + createdAt.substring(0, 10) + '-' + utils.slugify(fields['title']) + '.md'
           };
         }
-        if (modelName === 'post' && projectId === '7cde3f90-60c1-0079-4934-1df50efef89d' && source === '@kentico/sourcebit-source-kontent') {
+        if (modelName === 'post' && projectId === 'df5972ac-794e-00af-9a90-555c0fa81d4c' && source === '@kentico/sourcebit-source-kontent') {
           const { __metadata, 'content': content, layout, ...frontmatterFields } = entry;
           return {
             content: {
