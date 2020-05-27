@@ -1,5 +1,7 @@
 # Tale
 
+This repository is a fork of the original [Tale](https://github.com/chesterhow/tale) template adjusted to use [Sourcebit](https://github.com/stackbithq/sourcebit) and [Kontent.ai](https://bit.ly/36ref8S) as a headless CMS deployed on [Netlify](https://sourcebit-kontent-tale.netlify.app/).
+
 [![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
 Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
