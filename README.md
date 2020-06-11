@@ -1,6 +1,6 @@
 # Tale
 
-This repository is a fork of the original [Tale](https://github.com/chesterhow/tale) template adjusted to use [Sourcebit](https://github.com/stackbithq/sourcebit) and [Kontent.ai](https://bit.ly/36ref8S) as a headless CMS deployed on [Netlify](https://sourcebit-kontent-tale.netlify.app/).
+This repository is a fork of the original [Tale](https://github.com/chesterhow/tale) template adjusted to use [Sourcebit](https://github.com/stackbithq/sourcebit) and [Kontent.ai](https://bit.ly/36ref8S) as a headless CMS deployed on [Netlify](https://sourcebit-kontent-tale.netlify.app/). You can find all the necessary information about this repo and how to run in in this [article](https://kontent.ai/blog/sourcebit-how-to-make-friends-with-various-data-sources-in-the-jamstack).
 
 [![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
